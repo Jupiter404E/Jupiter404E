@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Artur929488
-- 👀 I'm interested in html, css, js, python.
+- 👀 I'm interested in html, css, js, python, C++.
 - 🌱 I’m currently learning
 - 💞️ I'm not looking to collaborate on
 - 📫 arturorlik2008@gmail.com
