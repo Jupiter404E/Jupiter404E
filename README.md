@@ -1,7 +1,7 @@
 # Обо мне
 ## Моя навыки
 •Языки: HTML, CSS, Python, JavaScript, C++
-https://www.codewars.com/users/Artur929488
+![image](https://www.codewars.com/users/Artur929488/badges/large) 
 ## Контакты 
 •Почта: arturorlik2008@gmail.com 
 <!---
