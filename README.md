@@ -1,4 +1,5 @@
 # Обо мне
+![image](https://raw.githubusercontent.com/lucaszcai/lucaszcai/master/programminggif1.gif) 
 ## Моя навыки
 •Языки: HTML, CSS, Python, JavaScript, C++
 ![image](https://www.codewars.com/users/Artur929488/badges/large) 
