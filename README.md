@@ -1,8 +1,8 @@
-# About me
+# About me:
 ![image](https://img.shields.io/github/followers/Jupiter404E?style=social)
-#
+
 ![image](https://raw.githubusercontent.com/lucaszcai/lucaszcai/master/programminggif1.gif)
-#
+
 ### Languages and Tools:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -13,9 +13,11 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
+### Skils:
+
 ![image](https://www.codewars.com/users/Artur929488/badges/large) 
-#
-## Contact's
+
+## Contact's:
 + Mail: arturorlik2008@gmail.com
 #
 ## Discord.py download
