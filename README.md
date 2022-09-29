@@ -1,15 +1,15 @@
-# Обо мне
+# About me
 ![image](https://img.shields.io/github/followers/Jupiter404E?style=social)
 #
 ![image](https://raw.githubusercontent.com/lucaszcai/lucaszcai/master/programminggif1.gif)
 #
-## Мои навыки
-• Языки: HTML, CSS, Python, JavaScript, C++
+## My skills
+• Langs: HTML, CSS, Python, JavaScript
 
 ![image](https://www.codewars.com/users/Artur929488/badges/large) 
 #
-## Контакты 
-+ Почта: arturorlik2008@gmail.com
+## Contact's
++ Mail: arturorlik2008@gmail.com
 #
 ## Discord.py download
 
