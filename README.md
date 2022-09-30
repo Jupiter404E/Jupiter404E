@@ -11,16 +11,19 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+
+<br />
+<br />
 
 ### Skils:
 
 ![image](https://www.codewars.com/users/Artur929488/badges/large) 
 
-## Contact's:
+### Contact's:
 + Mail: arturorlik2008@gmail.com
-#
-## Discord.py download
+
+### Discord.py download
 
 >1. pip intall discord.py
 >>2. import disocrd
