@@ -16,7 +16,7 @@
 ### Statistics:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jupiter404E&layout=compact&theme=radical)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jupiter404E&show_icons=true&theme=radical)
 
 <!---
 | язык | % | изучен |
