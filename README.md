@@ -22,28 +22,13 @@
 ![image](https://www.codewars.com/users/Artur929488/badges/large) 
 
 ### Contact's:
+
 + Mail: arturorlik2008@gmail.com
 
-### Discord.py download
+### Statistics:
 
->1. pip intall discord.py
->>2. import disocrd
->>>3. client = commands.Bot( command_prefix = прификс, intents=intents )\
->>>   client.remove_command( 'help' )
->>>>4. intents.presences = True\
-intents.members = True\
-intents.message_content = True
-#
-```python
-import discord
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jupiter404E&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-client = commands.Bot( command_prefix = прификс, intents=intents )
-client.remove_command( 'help' )
-
-intents.presences = True\
-intents.members = True\
-intents.message_content = True
-```
 
 <!---
 | язык | % | изучен |
