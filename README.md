@@ -11,7 +11,7 @@
 
 ### Contact's:
 
-+ Mail: arturorlik2008@gmail.com
++ Discord: Coca-cola#4126
 
 ### Statistics:
 
