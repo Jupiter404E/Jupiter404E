@@ -1,4 +1,4 @@
-# About me:
+# About me
 ![image](https://img.shields.io/github/followers/Jupiter404E?style=social)
 
 ### Languages and Tools:
