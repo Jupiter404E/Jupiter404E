@@ -15,8 +15,8 @@
 
 ### Statistics:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jupiter404E&layout=compact&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jupiter404E&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jupiter404E&layout=compact&bg_color=151515&title_color=ffffff&text_color=9e9e9e)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jupiter404E&show_icons=true&bg_color=151515&title_color=ffffff&text_color=9e9e9e)
 
 <!---
 | язык | % | изучен |
