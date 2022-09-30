@@ -3,7 +3,7 @@
 
 ### Languages and Tools:
 
-<a href="#">![SkillIcons](https://skillicons.dev/icons?i=py,js,html,css,java,mongodb,vscode,discord,figma,docker,stackoverflow,heroku)</a><br/>
+<a href="#">![SkillIcons](https://skillicons.dev/icons?i=py,js,html,css,java,php,mongodb,vscode,discord,figma,androidstudio,docker,git,stackoverflow,heroku)</a><br/>
 <br />
 ### Skils:
 
