@@ -1,8 +1,6 @@
 # About me:
 ![image](https://img.shields.io/github/followers/Jupiter404E?style=social)
 
-![image](https://raw.githubusercontent.com/lucaszcai/lucaszcai/master/programminggif1.gif)
-
 ### Languages and Tools:
 
 <a href="#">![SkillIcons](https://skillicons.dev/icons?i=py,js,html,css,java,mongodb,vscode,discord,figma,docker,stackoverflow,heroku)</a><br/>
