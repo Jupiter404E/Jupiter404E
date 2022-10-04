@@ -6,6 +6,8 @@
 
 <a href="#">![SkillIcons](https://skillicons.dev/icons?i=py,js,html,css,java,php,mongodb,vscode,discord,figma,androidstudio,docker,git,stackoverflow,heroku)</a><br/>
 <br />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%3Cdiv+class%3D%22Jupiter404E%22%3E%3Cdiv%3E;def+Jupiter404E()%3A;console.log(%60Jupiter404E%60))
+
 ### Skils:
 
 ![image](https://www.codewars.com/users/Artur929488/badges/large) 
