@@ -20,7 +20,7 @@
 
 <h2 align="center">
   <a href="https://github.com/ThaTguyThimo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=Jupiter404E&layout=compact&bg_color=151515&title_color=ffffff&text_color=9e9e9e">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jupiter404E&layout=compact&bg_color=151515&title_color=ffffff&text_color=9e9e9e">
   </a>
     <a href="https://github.com/ThaTguyThimo">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jupiter404E&show_icons=true&bg_color=151515&title_color=ffffff&text_color=9e9e9e">
