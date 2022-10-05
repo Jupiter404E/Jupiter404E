@@ -38,10 +38,6 @@
 <img align="center" alt="ko-fi" width="200px" src="https://cdn.discordapp.com/attachments/487752573739335680/940478160036823040/kofi.png" />
 </a>
 
-###
-
-[![Commit Snake](https://github.com/Jupiter404E/Jupiter404E/blob/output/github-contribution-grid-snake.svg)](https://github.com/Jupiter404E)
-
 <!---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jupiter404E&layout=compact&bg_color=151515&title_color=ffffff&text_color=9e9e9e)
