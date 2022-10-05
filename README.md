@@ -28,6 +28,10 @@
   <br>
 </h2>
 
+### Discord profile
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/660176203755552768)](https://discord.com/users/660176203755552768)
+
 ### Buy me a coffee <3
 
 <a align="center" href="https://ko-fi.com/W7W1FHG1V">
