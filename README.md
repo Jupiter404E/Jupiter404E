@@ -40,7 +40,7 @@
 
 ###
 
-[![Commit Snake](https://github.com/ItsCryptic/ItsCryptic/blob/output/github-contribution-grid-snake.svg)](https://github.com/Jupiter404E)
+[![Commit Snake](https://github.com/ItsCryptic/Jupiter404E/blob/output/github-contribution-grid-snake.svg)](https://github.com/Jupiter404E)
 
 <!---
 
