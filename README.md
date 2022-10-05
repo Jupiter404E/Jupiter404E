@@ -28,6 +28,11 @@
   <br>
 </h2>
 
+### Buy me coffee <3
+
+<a align="center" href="https://ko-fi.com/W7W1FHG1V">
+<img align="center" alt="ko-fi" width="200px" src="https://cdn.discordapp.com/attachments/487752573739335680/940478160036823040/kofi.png" />
+</a>
 
 <!---
 
