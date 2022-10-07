@@ -38,6 +38,8 @@
 <img align="center" alt="ko-fi" width="200px" src="https://cdn.discordapp.com/attachments/487752573739335680/940478160036823040/kofi.png" />
 </a>
 
+---
+
 <div align="center">
 	<img src="https://github.com/Jupiter404E/Jupiter404E/blob/main/img/189500420-95442ae0-a91f-42b1-bb11-39280e15b208.svg" width="100%" height="auto">
 
