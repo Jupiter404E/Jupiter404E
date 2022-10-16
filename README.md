@@ -6,7 +6,7 @@
 
 <a href="#">![SkillIcons](https://skillicons.dev/icons?i=py,js,html,css,java,php,mongodb,vscode,discord,figma,androidstudio,docker,git,stackoverflow,heroku)</a><br/>
 <br />
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%3Cdiv+class%3D%22Jupiter404E%22%3E%3Cdiv%3E;def+Jupiter404E()%3A;console.log(%60Jupiter404E%60))
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%3Cdiv+class%3D%22Jupiter404%22%3E%3C%2Fdiv%3E;def+Jupiter404()%3A;console.log(%60Jupiter404%60)" alt="Typing SVG" /></a>
 
 ### Skils:
 
