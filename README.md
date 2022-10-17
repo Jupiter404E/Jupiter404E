@@ -28,10 +28,11 @@
   <br>
 </h2>
 
-### Discord profile
+### Discord profile:
 
 <div align="center">
 	<a href="https://discord.com/users/660176203755552768"><img src="https://lanyard.cnrad.dev/api/660176203755552768" alt="Discord Presence"></a>
+</div>
 
 ### Buy me a coffee <3
 
@@ -43,7 +44,7 @@
 
 <div align="center">
 	<img src="https://github.com/Jupiter404E/Jupiter404E/blob/main/img/189500420-95442ae0-a91f-42b1-bb11-39280e15b208.svg" width="100%" height="auto">
-
+</div>
 <!---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jupiter404E&layout=compact&bg_color=151515&title_color=ffffff&text_color=9e9e9e)
