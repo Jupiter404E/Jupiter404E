@@ -31,7 +31,7 @@
 ### Discord profile
 
 <div align="center">
-	<img src="https://lanyard.cnrad.dev/api/660176203755552768)](https://discord.com/users/660176203755552768" alt="Discord Presence" width="100%" height="auto">
+	<a href="https://discord.com/users/660176203755552768"><img src="https://lanyard.cnrad.dev/api/660176203755552768" alt="Discord Presence" width="100%" height="auto"></a>
 
 ### Buy me a coffee <3
 
