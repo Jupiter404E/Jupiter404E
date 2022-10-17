@@ -25,7 +25,6 @@
     <a href="https://github.com/ThaTguyThimo">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jupiter404E&show_icons=true&bg_color=151515&title_color=ffffff&text_color=9e9e9e">
   </a>
-  <br>
 </h2>
 
 ### Discord profile:
