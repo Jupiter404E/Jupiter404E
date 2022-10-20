@@ -14,7 +14,7 @@
 
 ### Contact's:
 
-+ Discord: Coca-cola#4126
++ Discord: Jupiter404#4126
 
 ### Statistics:
 
