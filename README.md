@@ -5,8 +5,20 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%3Cdiv+class%3D%22Jupiter404%22%3E%3C%2Fdiv%3E;def+Jupiter404()%3A;console.log(%60Jupiter404%60)" alt="Typing SVG" /></a>
 ### Languages and Tools:
 
-<a href="#">![SkillIcons](https://skillicons.dev/icons?i=py,js,html,css,java,php,mongodb,vscode,discord,figma,androidstudio,docker,git,stackoverflow,heroku)</a><br/>
-
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python"/></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
+<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
+<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
+<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="php"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code"/></a>
+<a href="https://discord.com/" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/></a>
+<a href="https://developer.android.com/" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android studio"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git"/></a>
+<a href="https://stackoverflow.com/" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stackoverflow"/></a>
 
 ### Skils:
 
