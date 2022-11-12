@@ -7,10 +7,10 @@
 
 <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python"/></a>
 <a href="https://www.javascript.com/" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
 <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="php"/></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="php"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code"/></a>
 <a href="https://discord.com/" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"/></a>
