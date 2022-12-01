@@ -26,7 +26,7 @@
 
 ### Contact's:
 
-+ Discord: Jupiter404#4126
++ Discord: Jupiter404E#1412
 
 ### Statistics:
 
