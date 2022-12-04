@@ -24,6 +24,10 @@
 
 ![image](https://www.codewars.com/users/Artur929488/badges/large) 
 
+### Views:
+
+<a href="https://github.com/Jupiter404E" target="_blank"><img src="https://count.getloli.com/get/@Jupiter404E?theme=rule32" alt="Views"/></a>
+
 ### Contact's:
 
 + Discord: Jupiter404E#1412
