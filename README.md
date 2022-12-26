@@ -41,11 +41,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jupiter404E&layout=compact&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=9e9e9e" width="38.5%">
   </a>
 
-### Discord profile:
+<!--### Discord profile:
 
 <div align="center">
 	<a href="https://discord.com/users/928268386067152987"><img src="https://lanyard.cnrad.dev/api/928268386067152987" alt="Discord Presence"></a>
-</div>
+</div>-->
 
 ### Buy me a coffee <3
 
