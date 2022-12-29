@@ -1,4 +1,9 @@
-# About me
+# Hi there 👋
+
+## About me:
+
+
+
 ![image](https://img.shields.io/github/followers/Jupiter404E?style=social)
 ![image](https://img.shields.io/github/stars/Jupiter404E?style=social)
 <br />
