@@ -1,13 +1,17 @@
 # Hi there 👋
 
-## About me:
-
-
-
 ![image](https://img.shields.io/github/followers/Jupiter404E?style=social)
 ![image](https://img.shields.io/github/stars/Jupiter404E?style=social)
 <br />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%3Cdiv+class%3D%22Jupiter404E%22%3E%3C%2Fdiv%3E;def+Jupiter404E(self)%3A;console.log(%60Jupiter404E%60)" alt="Typing SVG" /></a>
+
+### About me:
+
++ Name: Artur
++ Alias: Natya
++ Years old: 14
++ Pronoun: He/Him & She/Her
+
 ### Languages and Tools:
 
 <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python"/></a>
