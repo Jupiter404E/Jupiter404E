@@ -8,7 +8,7 @@
 ### About me:
 
 + Name: Artur
-+ Alias: Natya
++ Alias: Natya 🏳️‍⚧️
 + Years old: 14
 + Pronoun: He/Him & She/Her
 
