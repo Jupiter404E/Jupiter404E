@@ -30,7 +30,7 @@
 
 ### Contact's:
 
-+ Discord: Jupiter404E#1412
++ Discord: ! Jupiter404E#0001
 
 ### Statistics:
 
