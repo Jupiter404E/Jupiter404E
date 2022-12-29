@@ -10,7 +10,7 @@
 + Name: Artur
 + Alias: Nastya 🏳️‍⚧️
 + Years old: 14
-+ Pronoun: He/Him & She/Her
++ Pronoun: He/Him or She/Her
 
 ### Languages and Tools:
 
