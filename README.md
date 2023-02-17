@@ -39,7 +39,7 @@
 
 ### Contact's:
 
-+ Discord: `! Jupiter404E#0001`
++ Discord: `! Jupiter404E#1053`
 + Telegram: `@Ya_takoy_susi`
 
 ### Statistics:
