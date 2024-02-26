@@ -7,8 +7,7 @@
 
 ### About me:
 
-+ Name: Artur
-+ Alias: Nastya 🏳️‍⚧️
++ Name: Anastasia 🏳️‍⚧️
 + Years old: 15
 + Pronoun: Any pronoun
 
