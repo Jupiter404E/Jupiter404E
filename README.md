@@ -56,12 +56,6 @@
 	<a href="https://discord.com/users/928268386067152987"><img src="https://lanyard.cnrad.dev/api/928268386067152987" alt="Discord Presence"></a>
 </div>
 
-### Buy me a coffee <3
-
-<a align="center" href="https://ko-fi.com/W7W1FHG1V">
-<img align="center" alt="ko-fi" width="200px" src="https://cdn.discordapp.com/attachments/487752573739335680/940478160036823040/kofi.png" />
-</a>
-
 ---
 
 <div align="center">
