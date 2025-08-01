@@ -8,8 +8,8 @@
 ### About me:
 
 + Name: Anastasia 🏳️‍⚧️
-+ Years old: 15
-+ Pronoun: Any pronoun
++ Years old: 17
++ Pronoun: She/Her
 
 ### Languages and Tools:
 
