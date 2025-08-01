@@ -19,7 +19,7 @@
   }
   @font-face {
     font-family: 'ff';
-    src: url('https://github.com/Jupiter404E/Jupiter404E/blob/main/fonts/matrix.ttf');
+    src: url('https://github.com/NastyaNoTamashii/NastyaNoTamashii/blob/main/fonts/matrix.ttf');
 }
 	
 	@media (prefers-color-scheme:dark){
@@ -103,7 +103,7 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<div class="container">
         
-				<h1>Jupiter404E</h1>
+				<h1>NastyaNoTamashii</h1>
 			</div>
       	</div>
 		
