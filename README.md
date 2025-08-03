@@ -48,7 +48,7 @@
 ### Discord profile:
 
 <div align="center">
-	<a href="https://discord.com/users/928268386067152987"><img src="https://lanyard.cnrad.dev/api/928268386067152987" alt="Discord Presence"></a>
+	<a href="https://discord.com/users/660176203755552768"><img src="https://lanyard.cnrad.dev/api/660176203755552768" alt="Discord Presence"></a>
 </div>
 
 ---
@@ -66,9 +66,4 @@
 |python|36%|изучен|
 |HTML|67%|изучен|
 |CSS|32%|изучен|
---->
-
-<!---
-Artur929488/Artur929488 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
