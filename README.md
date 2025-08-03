@@ -33,7 +33,7 @@
 
 ### Contact's:
 
-+ Discord: `! Jupiter404E#1053`
++ Discord: `@6_legion_9`
 + Telegram: `@Ya_takoy_susi`
 
 ### Statistics:
