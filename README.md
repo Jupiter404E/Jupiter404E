@@ -23,7 +23,6 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code"/></a>
 <a href="https://discord.com/" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/></a>
-<a href="https://developer.android.com/" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android studio"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git"/></a>
 <a href="https://stackoverflow.com/" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stackoverflow"/></a>
